@@ -57,13 +57,20 @@ function resta(x, y) {
   console.log(x,y);
 
 }
-resta(9-4);
+resta(9,4);
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  var x;
+  var y;
+  var resultado;
+  resultado=x*y;
+  return resultado;
+  console.log(x,y);
 }
+multiplica(4,9);
+
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
