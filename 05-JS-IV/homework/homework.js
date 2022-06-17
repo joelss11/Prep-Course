@@ -147,7 +147,7 @@ var suma = 0;
     suma = suma + usuario.posts[i].likes;
   }
 
-  return suma;
+  return suma; 
   
 }
 
