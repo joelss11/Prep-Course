@@ -14,14 +14,16 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
         font-size:18px;
         margin: 50px;
         padding: 50px;
-        border: 1px solid yellow;
+        
     }
     
-.divClass{
+ #thirdDiv{
     background-color: black;
     color:white; 
     height: 600px;
     width: 500px;
+    padding: 50px;
+    border: 10px solid blue;
 }
 
 
